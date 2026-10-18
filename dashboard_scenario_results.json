@@ -1,0 +1,14 @@
+{
+    "scenario": "overcurrent",
+    "fault_detected": true,
+    "restoration_required": true,
+    "restoration_successful": true,
+    "relay_pickup_current_ka": 0.9,
+    "normal_industrial_current_ka": 0.2853369217330717,
+    "fault_current_ka": 1.2714372625581818,
+    "selected_tie_switch": "Alternative Tie Switch",
+    "selected_backup_feeder": "Alternative Backup Feeder",
+    "restored_voltage_pu": 0.9627463932195002,
+    "restored_feeder_loading_percent": 60.12557861340756,
+    "restored_transformer_loading_percent": 34.574663209046605
+}
